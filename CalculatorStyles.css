@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 17%;
+    margin-right: 17%;
+}
+
+button{
+    height: 50px;
+    width: 300px; 
+    background-color: lightblue;
+}
+
+button:hover{
+    background-color: lightseagreen;
+}
+button:active{
+    background-color: grey;
+}
+
